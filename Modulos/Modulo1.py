@@ -44,6 +44,8 @@ def seleccion_dias():
         dias_iterar= int(entry.get())
         ventana.destroy()
     ventana = tk.Tk()
+    ventana.iconbitmap("img/analisis.ico")
+    ventana.title("")
     ancho_pantalla = ventana.winfo_screenwidth()
     alto_pantalla = ventana.winfo_screenheight()
     ancho_ventana = 450
@@ -56,7 +58,7 @@ def seleccion_dias():
     entry = tk.Entry(ventana,font=("Segoe UI", 20, "bold"))
     entry.focus()
     entry.place(relx=0.5,rely=0.5,relheight=0.2,relwidth=0.4,anchor="center")
-    boton = tk.Button(ventana, text="Aceptar", command=obtener_numero)
+    boton = tk.Button(ventana, text="Aceptar", font=("Segoe UI",12,"bold"),command=obtener_numero, borderwidth=4)
     boton.place(relx=0.5,rely=0.8,anchor="center")
     ventana.mainloop()
     return dias_iterar
