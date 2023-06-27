@@ -1,4 +1,7 @@
-# 🎰 Proyecto evaluativo final - Procesamiento de Datos
+# 🎰 Proyecto evaluativo - Procesamiento de Datos
+- Proyecto evaluativo para la materia Procesamiento de Datos de la tecnicatura superior en Ciencia de Datos e Inteligencia Artificial - Instituto Superior Politécnico Córdoba
+
+
 
 ## 👨‍💻 Integrantes:
 - Marcelo Karim Juri Garay
