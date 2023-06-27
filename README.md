@@ -35,20 +35,22 @@ Si el programa presenta algún error que debería ser reportado para arreglarlo,
 
 ## 📸 Capturas de pantalla
 *Cuando ejecute el archivo 'Main.py' le aparecerá esto*
-![Capturas](Codigo/img/1.png)
+![Capturas](Código/img/1.png)
 
 *Una vez ingresados los días, comenzará la recolección de datos*
-![Capturas](Codigo/img/2.png)
+![Capturas](Código/img/2.png)
 
 *Una vez terminado, le aparecerá por consola las coincidencias ganadoras*
-![Capturas](Codigo/img/3.png)
+![Capturas](Código/img/3.png)
 
 *Se crean automáticamente los archivos '.csv'*
-![Capturas](Codigo/img/4.png)
+
+
+![Capturas](Código/img/4.png)
 
 *El programa le preguntará si quiere intentar una jugada, si pone 'Si' se ejecuta, si pone 'No' termina el programa.*
-![Capturas](Codigo/img/5.png)
+![Capturas](Código/img/5.png)
 
 *Suponiendo que puso 'Si', puede probar tantas jugadas como desee*
-![Capturas](Codigo/img/6.png)
+![Capturas](Código/img/6.png)
 
