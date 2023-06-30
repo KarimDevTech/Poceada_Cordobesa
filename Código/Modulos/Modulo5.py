@@ -32,7 +32,7 @@ def probar_jugada(array_num, fechas):
             # Crear la ventana    
         ventana = tk.Tk()
         ventana.title("¿SE HUBIESE CONVERTIDO EN MILLONARIO?")
-        ventana.iconbitmap("img/analisis.ico")
+
         ventana.deiconify()
         # Obtener el ancho y alto de la ventana
         ancho_ventana = 420
