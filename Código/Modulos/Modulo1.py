@@ -44,7 +44,6 @@ def seleccion_dias():
         dias_iterar= int(entry.get())
         ventana.destroy()
     ventana = tk.Tk()
-    ventana.iconbitmap("img/analisis.ico")
     ventana.title("")
     ancho_pantalla = ventana.winfo_screenwidth()
     alto_pantalla = ventana.winfo_screenheight()
